@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name RT9193-33)(type KiCad)(uri E:/Kicad/KicadLibrary/RT9193-33)(options "")(descr ""))
+  (lib (name 12Mhz)(type KiCad)(uri E:/Kicad/KicadLibrary/12Mhz)(options "")(descr ""))
+  (lib (name SPST)(type KiCad)(uri E:/Kicad/KicadLibrary/SPST)(options "")(descr ""))
+)
